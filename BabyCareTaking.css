@@ -1,0 +1,101 @@
+#LovedRespectedMemories{
+  background-size: cover;
+
+   
+}
+
+#CuteBabyHenry{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+      font-size: 50px;
+
+    color: black;
+}
+
+#Heading{
+    font-family: fantasy;
+
+    font-weight: bold;
+
+    font-style: oblique;
+
+    color: black;
+
+    font-size: 25px;
+
+    width: 80%;
+
+    border-color: black;
+
+    border-width: 5px;
+}
+
+#status{
+         width: 13x;
+
+         height: 12px;
+
+
+
+
+}
+
+#Span{
+
+
+  font-family: fantasy;
+
+  font-weight: bold;
+
+  font-style: oblique;
+
+  color: black;
+
+  font-size: 25px;
+
+  width: 50%;
+
+  border-color: black;
+
+  border-width: 5px;
+}
+
+
+
+
+
+.copy_right_footer{
+
+font: bold;
+
+font-size: 20px;
+
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+color: black;
+
+position: fixed;
+
+font-size: 23px;
+
+font-family: fantasy;
+
+ background-color: rgb(251, 138, 0);
+  
+ bottom: 0;
+
+  width: 100%;
+
+  text-align: center;
+
+  font-weight: bold;
+
+  font-style: italic;
+
+  line-height: 2;
+  
+  border-color: black;
+
+  border-width: 5px;
+
+}
